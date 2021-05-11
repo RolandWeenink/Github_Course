@@ -1,1 +1,5 @@
-my-secret-notes.txt
+# ignore secret files
+*secret*
+
+# Ignore big data
+big-data/
